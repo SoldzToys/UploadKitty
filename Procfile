@@ -1,1 +1,1 @@
-worker: node mail.js
+worker: node commands
